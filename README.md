@@ -51,7 +51,7 @@ A Flutter application that displays a paginated list of employees fetched from a
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/employee-directory-app.git
-cd employee-directory-app
+git clone https://github.com/Israrahmad1266/user_list_task.git
+
 flutter pub get
 flutter run
